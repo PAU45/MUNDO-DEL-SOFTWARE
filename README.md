@@ -1,6 +1,6 @@
 # 🌟 Reflexión Vocacional
 
-![Frontend Banner](https://i.imgur.com/dVxRB1p.png)
+![Frontend Banner](https://imgs.search.brave.com/NTNMFx9rh6Qw-wbbZiZ0m5sp3O3Ev1RttSAi2XQriEU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzA5LzU5LzE3LzQ5/LzM2MF9GXzk1OTE3/NDk2MF9xdTJNaHlK/VlJHTm5wUUxsM3FI/Y1JhaGg5ZkJmSjhN/ZS5qcGc)
 
 ---
 
@@ -18,7 +18,7 @@ También me interesan los **videojuegos** 🎮, la **ciberseguridad** 🔐 y el 
 
 Soy una persona súper **detallista**. Me encanta que las cosas se vean bien y funcionen bien. Siento que tengo buen ojo para lo visual y eso encaja perfecto con el **frontend**. Me gusta crear cosas que impacten visualmente y generen una buena experiencia.
 
-![UI Design](https://i.imgur.com/IbiB9RX.png)
+![UI Design](https://imgs.search.brave.com/NPWSdD_MSR3_32skoJzTqLkW8S8GOXqcDqHPSZ0mteE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/Y2FyZWVyZm91bmRy/eS5jb20vZW4vd3At/Y29udGVudC91cGxv/YWRzL29sZC1ibG9n/LXVwbG9hZHMvdGFz/a3MtYW5kLXJlc3Bv/bnNpYmlsaXRpZXMt/b2YtdXgtdnMtdWkt/ZGVzaWduZXJzLmpw/Zw)
 
 ---
 
@@ -32,7 +32,7 @@ Quiero aprender nuevos lenguajes, probar frameworks y descubrir más sobre el mu
 
 Aprendí que soy alguien bendecido por Dios 🙌. Tengo muchos intereses, una gran curiosidad por aprender y la energía para comerme el mundo 🌎🔥. Me gusta conocer diferentes áreas y eso me hace sentir más completo como futuro profesional.
 
-![Mindset](https://i.imgur.com/5OTm9jV.png)
+![Mindset](https://imgs.search.brave.com/ny_pb-lCjxqxwrL-yr89NLRvSh-1ZQ0fQIR7BbZncLE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bWVtZWNyZWF0b3Iu/Y29tL3N0YXRpYy9p/bWFnZXMvbWVtZXMv/MjcyODY4LmpwZw)
 
 ---
 
